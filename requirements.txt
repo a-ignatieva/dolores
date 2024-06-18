@@ -1,0 +1,6 @@
+matplotlib >= 3.7.2
+stdpopsim >= 0.2.0
+tqdm >= 4.66.1
+tsdate >= 0.1.5
+tszip >= 0.2.2
+tsinfer >= 0.3.1
